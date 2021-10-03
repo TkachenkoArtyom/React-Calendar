@@ -13,3 +13,4 @@ Mocked data used as API.
 4) To login you can use next credentials: 
   - login: `admin`, password: `123`
   - login: `user`, password: `123`
+  - login: `artyom`, password: `123`
